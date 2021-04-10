@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "534027295094",
+    "project_id": "imagecollector-24296",
+    "storage_bucket": "imagecollector-24296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534027295094:android:77864c5bd8e64e6c194257",
+        "android_client_info": {
+          "package_name": "com.imagecollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534027295094-t16am9cv0eov6h56b2itqc2oqfg46ne2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imagecollector",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "534027295094-n5s4geaqa7aopb618ltglb9hf0c3mnkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62kwXzJbpb64936Xyuak4YXFVzbuCdi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534027295094-n5s4geaqa7aopb618ltglb9hf0c3mnkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
